@@ -15,7 +15,7 @@
 </div>
   
 <div>
-  1<a href="https://discord.com/users/665365220050337803">
+  <a href="https://discord.com/users/665365220050337803">
   <img src="https://img.shields.io/badge/-Discord-%236666ff?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
   <a href="https://www.instagram.com/rainefelixx/">
