@@ -4,7 +4,6 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo.
 - 👀  A procura de estágio na área da tecnologia
 - 📫 Contate-me: linkedin.com/in/rainefelix/
-- 😄 Pronomes: Ela/dela
 
 
 <div align="left">
