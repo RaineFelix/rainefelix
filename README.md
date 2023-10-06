@@ -4,14 +4,6 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo.
 - 👀  A procura de estágio na área da tecnologia
 - 📫 Contate-me: linkedin.com/in/rainefelix/
-
-
-<div align="left">
-  <a href="https://github.com/rainefelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainefelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainefelix&layout=compact&langs_count=7&theme=radical"/>
-    
-</div>
   
 <div>
   <a href="https://discord.com/users/618897243046412288">
