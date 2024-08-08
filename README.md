@@ -2,7 +2,8 @@
 
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo.
-- 👀  A procura de estágio na área da tecnologia
+- 🖥️ Técnico em Desenvolvimento de Sistemas 
+- 👀 Estagiária em Data & Analytics na Compass UOL
 - 📫 Contate-me: linkedin.com/in/rainefelix/
   
 <div>
