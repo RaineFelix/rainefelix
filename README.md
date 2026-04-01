@@ -1,9 +1,8 @@
 ### Olá, eu sou a Raíne 😊
 
-
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo.
+- 👀 Analista Desenvolvedora na Everymind
+- 🌱 Superior em Análise e Desenvolvimento de Sistemas
 - 🖥️ Técnico em Desenvolvimento de Sistemas 
-- 👀 Estagiária em Data & Analytics na Compass UOL
 - 📫 Contate-me: linkedin.com/in/rainefelix/
   
 <div>
